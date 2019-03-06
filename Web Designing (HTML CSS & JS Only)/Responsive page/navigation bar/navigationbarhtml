@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="stylenavigationbar.css">
+    </head>
+    <body>
+        <nav class="nav-bar">
+            <div class="navigation-bar">
+                    <div class="d1"></div>
+                    <div class="triangle">
+                        <img src="githublogo.png" class="img-responsive" alt="" /> 
+                    </div>
+                <ul>
+                    <li><a class="a1" href="#home">Home</a></li>
+                    <li><a class="a2" href="#contact">Contact</a></li>
+                    <li><a class="a3" href="#about">About</a></li>
+                </ul>
+            </div>
+        </nav>
+    </body>
+</html>
